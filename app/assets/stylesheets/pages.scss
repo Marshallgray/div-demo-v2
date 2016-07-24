@@ -11,7 +11,7 @@ body {
   margin-bottom: 40px;
   padding-right: 30px;
 
-  height: 315px;
+  min-height: 260px; max-height: 260px;
 }
 
 .profile-icons{
