@@ -1,6 +1,8 @@
 <nav>
   <div class="nav-wrapper" style="background-color:#F5F5F5;">
-    <a href="#!" style="margin-left:10px;"><img class="nav-logo" src="<%= asset_path 'diversityX-nav-logo.png' %>" alt=""></a>
+    <%= link_to (root_path), style: "margin-left: 10px;" do %>
+    <img class="nav-logo" src="<%= asset_path 'diversityX-nav-logo.png' %>" alt="">
+    <% end %>
     <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
     <ul class="right hide-on-med-and-down">
 

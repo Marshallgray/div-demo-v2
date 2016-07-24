@@ -1,6 +1,7 @@
 class PagesController < ApplicationController
   def index
     @image = ['profile-card-image']
+    
   end
 
   def profile
