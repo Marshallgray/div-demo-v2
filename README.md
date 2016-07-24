@@ -7,3 +7,8 @@ Build tools
 - Materialize CSS
 - rubyonrails
 - youtube
+
+To run:
+
+- cd in
+- rails db
