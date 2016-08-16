@@ -3,19 +3,19 @@ Rails.application.routes.draw do
   root 'pages#index'
 
 
-  get 'fiona-profile', to: 'pages#fiona-profile'
+  get 'fionamcguinness', to: 'pages#fionamcguinness'
 
-  get 'kamel-maouch', to: 'pages#kamel-maouch'
+  get 'kamelmaouch', to: 'pages#kamelmaouch'
 
-  get 'dyllan-profile', to: 'pages#dyllan-profile'
+  get 'dyllanbloch', to: 'pages#dyllanbloch'
 
-  get 'jack-dodd', to: 'pages#jack-dodd'
+  get 'jackdodd', to: 'pages#jackdodd'
 
-  get 'kimball-gibson', to: 'pages#kimball-gibson'
+  get 'kimballgibson', to: 'pages#kimballgibson'
 
-  get 'rory-ocarrol', to: 'pages#rory-ocarrol'
+  get 'roryocarrol', to: 'pages#roryocarrol'
 
-  get 'shiva-manohar', to: 'pages#shiva-manohar'
+  get 'shivamanohar', to: 'pages#shivamanohar'
 
   devise_for :users
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
