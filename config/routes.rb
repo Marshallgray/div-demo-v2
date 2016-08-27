@@ -13,7 +13,7 @@ Rails.application.routes.draw do
 
   get 'kimballgibson', to: 'pages#kimballgibson'
 
-  get 'roryocarrol', to: 'pages#roryocarrol'
+  get 'roryocarroll', to: 'pages#roryocarroll'
 
   get 'shivamanohar', to: 'pages#shivamanohar'
 
