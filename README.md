@@ -2,7 +2,7 @@
 
 Demo for Sean Hall, profile card click through to profile view with embedded youtube video of talent.
 
-https://desolate-dawn-81209.herokuapp.com/
+https://desolate-dawn-81209.herokuapp.com/ => talent.wearediversityx.com
 
 documentation
 https://drive.google.com/file/d/0ByfGO-HJ1Cg9U18wZjB6OU10eTQ/view?usp=sharing
